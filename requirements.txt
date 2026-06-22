@@ -1,0 +1,18 @@
+# Core deep learning
+tensorflow==2.18.0
+tensorflow-hub==0.16.1
+tf-keras==2.18.0
+
+# Data processing
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# Machine learning utilities
+scikit-learn
+
+# Notebook
+jupyter
+ipykernel
