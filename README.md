@@ -130,7 +130,7 @@ Dog-vision_project/
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Kaggle Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification)
 - [ZeroToMastery TensorFlow course](https://zerotomastery.io/)
