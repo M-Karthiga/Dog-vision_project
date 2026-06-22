@@ -14,10 +14,10 @@ An end-to-end deep learning project that identifies **120 dog breeds** from imag
 > The subset model shows classic overfitting — training accuracy hits 100% while validation plateaus at 66%. This is expected when only training the classification head on a small slice of data with a frozen backbone.
 
 ### Training Curves (1,000-image subset)
-![Training curves](assets/training_curves.png)
+<img width="811" height="321" alt="training_curves" src="https://github.com/user-attachments/assets/53dfaf4e-97d8-4413-8551-8ebaed03b631" />
 
 ### Sample Predictions
-![Sample predictions](assets/sample_predictions.png)
+<img width="872" height="656" alt="image" src="https://github.com/user-attachments/assets/0ecb270f-0b99-4a67-9da9-301333841042" />
 
 ---
 
