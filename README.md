@@ -71,7 +71,7 @@ dog-breed-identification/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/Dog-vision_project.git
+git clone https://github.com/M-Karthiga/Dog-vision_project.git
 cd Dog-vision_project
 
 # 2. Create environment (Python 3.11 recommended — TF doesn't support 3.13 yet)
